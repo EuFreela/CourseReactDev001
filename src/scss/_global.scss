@@ -1,0 +1,25 @@
+/*
+Use este arquivo para adicionar estilos globais que não estão diretamente ligados a componentes específicos, como resets ou fontes globais:
+*/
+
+body {
+    font-family: 'Nunito Variable', sans-serif;
+    background-color: #f8f9fa;
+}
+
+.nav-link {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    font-size: 1rem;
+}
+
+.nav-link:hover {
+    background-color: $body-secondary-bg;
+    color: white;
+}
+
+.dropdown-toggle::after {
+    display: none;
+    /* Remove o ícone de seta padrão */
+}

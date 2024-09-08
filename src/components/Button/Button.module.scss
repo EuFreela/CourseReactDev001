@@ -1,0 +1,13 @@
+@import './mixins'; // Importar mixins
+
+.button {
+    font-family: Arial, sans-serif;
+}
+
+.primary {
+    @include button-style(#007bff, #fff, #0056b3); // Estilo primário (azul)
+}
+
+.secondary {
+    @include button-style(#6c757d, #fff, #5a6268); // Estilo secundário (cinza)
+}

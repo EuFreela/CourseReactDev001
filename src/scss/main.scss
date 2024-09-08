@@ -1,0 +1,33 @@
+/*
+Este arquivo reúne todos os parciais criados para compilar um único arquivo CSS:
+*/
+
+// Cores do tema baseadas no Google
+$primary: #4285F4; // Google Blue
+$success: #34A853; // Google Green
+$danger: #EA4335; // Google Red
+$warning: #FBBC05; // Google Yellow
+
+$light: #FFFFFF; // Branco
+$dark: #202124; // Google Dark Grey
+
+// Cores de fundo
+$body-bg: #FFFFFF; // Fundo claro
+$body-bg-dark: #202124; // Fundo escuro (Google Dark Grey)
+$body-secondary-bg: #F1F3F4; // Cor secundária de fundo, Google Light Grey
+$body-secondary-bg-dark: #3C4043; // Fundo secundário escuro
+$body-tertiary-bg: #E8EAED; // Terciário claro, Google Light Grey
+$body-tertiary-bg-dark: #5F6368; // Terciário escuro, Google Dark Grey
+
+// Outras configurações
+$link-decoration: none;
+$dropdown-padding-x: 10px;
+$card-border-width: 0.1px;
+$prefix: "bs-"; // Prefixo de classes
+
+// Importando todos os arquivos SCSS parciais
+@import 'bootstrap';
+@import 'global';
+
+// Layout
+@import './components/layout/sidebar'

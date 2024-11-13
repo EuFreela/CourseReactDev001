@@ -1,6 +1,6 @@
 # Curso de Desenvolvimento com React
 
-Conteúdo do eBook:[Introdução Ao REACT: Construindo Interfaces Modernas do Zero](https://www.amazon.com.br/s?i=digital-text&rh=p_27%3ALAMECK+FERNANDES&s=relevancerank&text=LAMECK+FERNANDES&ref=dp_byline_sr_ebooks_1)
+Conteúdo do eBook: [Introdução Ao REACT: Construindo Interfaces Modernas do Zero](https://www.amazon.com.br/s?i=digital-text&rh=p_27%3ALAMECK+FERNANDES&s=relevancerank&text=LAMECK+FERNANDES&ref=dp_byline_sr_ebooks_1)
 
 
 Bem-vindo ao **Curso de Desenvolvimento com React**! Este repositório faz parte de uma série de conteúdos projetados para ajudar você a dominar o React, uma das bibliotecas JavaScript mais populares para a construção de interfaces modernas e interativas.
